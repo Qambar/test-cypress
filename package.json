@@ -1,0 +1,14 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Qambar Raza <email@qambarraza.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.2.0"
+  }
+}
